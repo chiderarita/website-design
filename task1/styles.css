@@ -1,0 +1,237 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 24px;
+    margin-bottom: 25px;
+}
+.richard {
+    font-size: 26px;
+    font-weight: bolder;
+}
+.home{
+    display: flex;
+    flex-direction: row;
+    gap: 18px;
+}
+.chat{
+    border: 2px solid gray;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
+.brain {
+    display: flex;
+    justify-content: space-between;
+}
+.face{
+    margin-left: 140px;
+}
+.user {
+    margin-left: px;;
+    margin-top: 75px;
+}
+.hire{
+    display: flex;
+    gap: 20px;
+}
+.desig{
+    max-width: 350px;
+    margin-bottom: 30px;
+}
+.for{
+    font-size: 38px;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+.am{
+    font-size: 38px;
+    font-weight: 900;
+}
+.over{
+    display: flex;
+    width: 100px;
+    height: 35px;
+    background: #5562ff;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 5px;
+}
+.nawa{
+    display: flex;
+    gap: 20px;
+}
+.vain{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+.process{
+    background: #FE481C;
+    height: 40px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.clear{
+    margin-top: 10px;
+    font-weight: bold;
+}
+.four{
+    font-size: 25px;
+    font-weight: bolder;
+    margin-bottom: 6px;
+}
+.wide{
+    display: flex;
+    gap: 70px;
+    margin-bottom: 40px;
+}
+.oor{
+    margin-bottom: 20px;
+}
+.con{
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.color{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+.love{
+    margin-top: 70px;
+}
+.chichi{
+    background: #ffd100;
+    height: 30px;
+    width: 100px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.want{
+    margin-bottom: 20px;
+}
+.name{
+    border: 1px solid grey;
+    width: 260px;
+    margin-bottom: 5px; 
+}
+.var{
+    margin-left: 240px;
+    margin-bottom: -10px
+}
+.not{
+    margin-left: 8px;
+    font-weight: bold;
+}
+.work {
+    background-color: #DED1C1;
+    width: 660px;
+    height: 775px;  
+    background-image: url("images/shirt.png");
+    background-repeat: no-repeat;
+    background-position: center;
+   
+    
+}
+.creat {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.create{
+    display: flex;
+    justify-content: center;
+    margin-right: 75px;  
+    font-weight: bold;
+}
+.ppp{
+    font-size: 24px;
+}
+
+.app{
+    background: black;
+    height: 250px;
+    width: 690px;
+    color: white; 
+} 
+
+.bater{
+    background: white;
+    padding: 10px;
+    width: 370px;
+    margin-top: 200px;
+    margin-left: 150px;
+
+}
+.none{
+    color: gray;
+}
+.cribe{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    justify-content: space-between;
+}
+.kiss{
+    background: black;
+    width: 40px;
+    height: 40px;
+    
+}
+.material-icons{
+    color: white;
+    padding: 7px 7px;
+}
+.del{
+   background: white; 
+   height: 65px;
+   width: 65px;
+   border-radius: 50px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+.plan{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: end;
+    margin: 80px 80px;  
+}
+.dele{
+    background: white; 
+    height: 65px;
+    width: 65px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    align-self: flex-start;
+}
+img{
+    width: 100px;
+}
+.mama{
+    color: purple;
+    font-size: 24px;
+    font-weight: bold;
+}
+
